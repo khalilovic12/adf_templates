@@ -1,0 +1,9 @@
+{
+	"name": "Openvalue-adf",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e1e2b61-b995-45aa-84ac-7323910378c1",
+		"tenantId": "6a65c321-1ea6-4940-aaf5-ac8276226439"
+	}
+}
