@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-databricks-dev",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36cd44eb-7be6-4ae2-ac6b-200673337d10",
+		"tenantId": "59053df5-a6d1-4a9f-b803-3b28bea7a617"
+	}
+}
