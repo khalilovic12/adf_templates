@@ -12,8 +12,12 @@
 			},
 			"airflowProperties": {
 				"airflowVersion": "2.4.3",
+				"airflowWebUrl": "https://55b92554121687.northeurope.airflow.svc.datafactory.azure.com/login/",
 				"airflowEnvironmentVariables": null,
-				"airflowRequirements": [],
+				"airflowRequirements": [
+					"apache-airflow-providers-microsoft-azure",
+					"apache-airflow-providers-databricks"
+				],
 				"enableAADIntegration": true,
 				"userName": null,
 				"password": null,
