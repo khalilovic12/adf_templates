@@ -1,0 +1,26 @@
+{
+	"name": "Airflow-test",
+	"properties": {
+		"type": "Airflow",
+		"description": "this is a test",
+		"typeProperties": {
+			"computeProperties": {
+				"location": "North Europe",
+				"computeSize": "Large",
+				"extraNodes": 0,
+				"enableAutoscale": false
+			},
+			"airflowProperties": {
+				"airflowVersion": "2.4.3",
+				"airflowEnvironmentVariables": null,
+				"airflowRequirements": [],
+				"enableAADIntegration": true,
+				"userName": null,
+				"password": null,
+				"airflowEntityReferences": [],
+				"encryptedSecrets": [],
+				"secrets": null
+			}
+		}
+	}
+}
