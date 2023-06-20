@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Airflow-khche",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "798af195-446f-4a35-8bd8-982ac232f306",
+		"tenantId": "6a65c321-1ea6-4940-aaf5-ac8276226439"
+	}
+}
